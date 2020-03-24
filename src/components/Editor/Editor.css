@@ -1,0 +1,23 @@
+.editor-container {
+  border: 0.5vh solid black;
+  height: 97vh;
+  margin: 1vh;
+}
+
+.heading {
+  background-color: seagreen;
+  height: 4%;
+}
+
+.editor {
+  height: 96%;
+  width: 100%;
+}
+
+.editor-textarea {
+  border: none;
+  height: 99.3%;
+  overflow-y: auto;
+  resize: none;
+  width: 99.2%;
+}

@@ -1,0 +1,17 @@
+.preview-container {
+  border: 0.5vh solid black;
+  height: 97vh;
+  margin: 1vh;
+}
+
+.heading {
+  background-color: seagreen;
+  height: 4%;
+}
+
+.markdown {
+  background-color: turquoise;
+  height: 96%;
+  overflow-y: auto;
+  width: 100%;
+}
